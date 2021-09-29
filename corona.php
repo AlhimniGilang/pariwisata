@@ -168,246 +168,103 @@
 
 
     <!-- body -->
-    <html>
+    
 
-<head>
- <meta charset="utf-8">
- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
- <link href="css/bootstrap.min.css" rel="stylesheet">
-</head>
 
-<body>
- <div class="container-fluid bg-transparent text-body">
-  <div class="container text-center">
-   <img src="assets/—Pngtree—stay safe and stay home_5339996.png" style="width: 280px ">
-   <h1 class="display-4">
-Corona Virus Live Status</h1>
-<p class="lead">
-</p>
-<h2>
- Informasi Jumlah Kasus Covid-19 Di Indonesia
+    
+   
+
+    <body>
+      <section class="top_place section_padding">
+    <div class="container-fluid bg-transparent text-body">
+      <div class="container text-center">
+      
+      <h1 class="display-4">Corona Virus Live Status</h1>
+    <p class="lead">
+    </p>
+    <h2>
+    Informasi Jumlah Kasus Covid-19 Di Indonesia
+        <br>
+        <p>
+    <i> "Stay Safe Stay Home"</i></p>
+    </h2>
     <br>
-    <p>
-<i> "Stay Safe Stay Home"</i></p>
-</h2>
-<br>
 
-   <div class="col-md-12 text-center">
-    <div class="bg-secondary box text-dark">
-     <div class="row">
-      <div class="col-md-12">
-       <img src="assets/indonesia.svg" style="width: 70px">
-       <h2>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-dark">INDONESIA
-        </a></h2>
-</div>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-       <div class="col-md-6">
-       </div>
-</a>
-     </div>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-     </a>
+    <style type="text/css">
+  .box{
+    padding: 30px 40px ;
+    border-radius: 5px;
+
+  }
+    
+    </style>
+
+<div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="bg-danger box">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5 class="card-text text-white">Positif</h5>
+                      <h2 id="data-kasus" class="card-text text-white"> 1234</h2>
+                      <h5 class="card-text text-white">orang</h5>
+                  </div>
+                  <div class="col-md-4">
+                    <img src="img/icon/sad.png" alt="">
+                  </div>
+              </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="bg-info box">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5 class="card-text text-white">Meninggal</h5>
+                      <h2 id="data-mati" class="card-text text-white"> 1234</h2>
+                      <h5 class="card-text text-white">orang</h5>
+                  </div>
+                  <div class="col-md-4">
+                    <img src="img/icon/cry.png" alt="">
+                  </div>
+              </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="bg-success box">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5 class="card-text text-white">Sembuh</h5>
+                      <h2 id="data-sembuh" class="card-text text-white"> 1234</h2>
+                      <h5 class="card-text text-white">orang</h5>
+                  </div>
+                  <div class="col-md-4">
+                    <img src="img/icon/smile.png" alt="">
+                  </div>
+              </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="bg-primary box">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5 class="card-text text-white">Indonesia</h5>
+                      <h2 id="data-id" class="card-text text-white"> 1234</h2>
+                      <h5 class="card-text text-white">orang</h5>
+                  </div>
+                  <div class="col-md-4">
+                    <img src="img/icon/indonesia.png" alt="">
+                  </div>
+              </div>
+          </div>
+        </div>
+      </div>
     </div>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-    </a>
-   </div>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-   </a>
-   <div class="container">
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-    </a>
-    <div class="row">
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-     </a>
 
-     <div class="col-md-4 mt-4">
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-      </a>
-      <div class="bg-info box text-white">
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-       </a>
-       <div class="row">
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-        </a>
-        <div class="col-md-6">
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">
-         </a>
-         <h5>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white"></a><a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">Positif</a></h5>
-<h2 id="data-kasus">
-45029</h2>
-<h5>
-Orang</h5>
-</div>
-<div class="col-md-4">
-         <img src="assets/icons8-neutral-80.png" style="width: 120px ">
-        </div>
-</div>
-</div>
-</div>
-<div class="col-md-4 mt-4">
-      <div class="bg-dark box text-white">
-       <div class="row">
-        <div class="col-md-6">
-         <h5>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">Meninggal</a></h5>
-<h2 id="data-mati">
-2429</h2>
-<h5>
-Orang</h5>
-</div>
-<div class="col-md-4">
-         <img src="assets/icons8-dead-80.png" style="width: 120px ">
-        </div>
-</div>
-</div>
-</div>
-<div class="col-md-4 mt-4">
-      <div class="bg-success box text-white">
-       <div class="row">
-        <div class="col-md-6">
-         <h5>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">Sembuh</a></h5>
-<h2 id="data-sembuh">
-17883</h2>
-<h5>
-Orang</h5>
-</div>
-<div class="col-md-4">
-         <img src="assets/icons8-happy-400.png" style="width: 120px ">
-        </div>
-</div>
-</div>
-</div>
-<div class="col-md-4 mt-4">
-      <div class="bg-danger box text-white">
-       <div class="row">
-        <div class="col-md-6">
-         <h5>
-<a href="https://news.google.com/covid19/map?hl=id&mid=/m/03ryn&gl=ID&ceid=ID:id" class="text-white">Hari ini</a></h5>
-<h2 id="data-hariini">
-1226</h2>
-<h5>
-Orang</h5>
-</div>
-<div class="col-md-4">
-         <img src="assets/icons8-surprised-80.png" style="width: 120px ">
-        </div>
-</div>
-</div>
-</div>
-</div>
-<!-- akhir row-->
-
-    <div class="card mt-3">
-     <div class="card-header bg-danger text-white">
-      <b> Data Kasus COVID-19 di Indonesia bedasarkan Provinsi </b>
-     </div>
-<div class="card-body">
-      <table class="table table-bordered">
-       <thead>
-        <th>No.</th>
-        <th>Nama Provinsi</th>
-        <th>Positif</th>
-        <th>Sembuh</th>
-        <th>Meninggal</th>
-       </thead>
-       <tbody id="table-data">
-
-       </tbody>
-
-      </table>
-</div>
-</div>
-</div>
-</div>
-<!-- akhir container-->
-  <footer class="bg-dark text-center text-white mt-3 bt-2 pb-2">
-   <b><i>Rafi Dhana Pratama 18753049"</b></i>
-  </footer>
-
-
-
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-
-</body>
-
-</html>
-
-<script>
- $(document).ready(function() {
-
-  //Fungsi menampilakan & memanggil Data
-
-
-  dataNegara();
-  dataProvinsi();
-
-  //Auto update data
-  setInterval(function() {
-
-   dataNegara();
-  }, 3000);
-
-
-
-  function dataNegara() {
-   $.ajax({
-    url: 'https://coronavirus-19-api.herokuapp.com/countries',
-    success: function(data) {
-     try {
-      var json = data;
-      var html = [];
-
-      if (json.length > 0) {
-       var i;
-       for (i = 0; i < json.length; i++) {
-        var dataNegara = json[i];
-        var namaNegara = dataNegara.country;
-
-        if (namaNegara === 'Indonesia') {
-         var kasus = dataNegara.cases;
-         var meninggal = dataNegara.deaths;
-         var Sembuh = dataNegara.recovered;
-         var hariini = dataNegara.todayCases;
-         $('#data-kasus').html(kasus);
-         $('#data-meninggal').html(Meninggal);
-         $('#data-sembuh').html(Sembuh);
-         $('#data-hariini').html(hariini);
-        }
-       }
-      }
-
-
-     } catch {
-
-     }
-    }
-
-   });
-  }
-
-  function dataProvinsi() {
-   $.ajax({
-    url: 'curl.php',
-    type: 'GET',
-    success: function(data) {
-     try {
-      $('#table-data').html(data);
-
-     } catch {
-      alert('Error');
-     }
-    }
-
-   });
-  }
- });
-</script>
-<!--body-->
+      
+</section>
 
 
 
@@ -498,3 +355,54 @@ Orang</h5>
       </body>
       
       </html>
+
+      
+
+      <script>
+        $(document).ready(function(){
+
+          dataNegara();
+          
+          function dataNegara(){
+            $.ajax({
+              url :'https://coronavirus-19-api.herokuapp.com/countries',
+              success : function(data){
+                try{
+
+                  var json = data;
+                  var html = [];
+
+                  if(json.length > 0){
+                    var i;
+                    for(i = 0; i < json.length; i++){
+                      var dataNegara = json[i];
+                      var namaNegara = dataNegara.country;
+
+                      if(namaNegara === 'Indonesia'){
+                        var kasus = dataNegara.cases;
+                        var mati = dataNegara.deaths;
+                        var sembuh = dataNegara.recovered;
+
+                        $('#data-kasus').html(kasus);
+                        $('#data-mati').html(meninggal);
+                        $('#data-sembuh').html(meninggal);
+
+                        $('#data-id').html('Positif :'+kasus+'orang <br> Meninggal :'+mati+' orang <br> sembuh : '+sembuh+' orang')
+                        
+                      }
+
+                    }
+                  }
+                  
+
+                }catch{
+                  alert('error');
+                
+                }
+              }
+            });
+          }
+        }
+        )
+      
+        </script> 
